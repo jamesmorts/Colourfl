@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <script src=script.js></script>
+</head>
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <p class="logo">Colourfl</p>
+  <p class="subHeading">Simply click a square to copy the hexcode for that colour to your clipboard.</p>
+
+  <center>
+
+
+    <p id="p1">#2f3136</p>
+    <p id="p2">#00baff</p>
+
+    <br/>
+    <div class="tooltip">
+      <span class="tooltiptext">#2f3136</span>
+        <button id=button1 onclick="copyToClipboard('#p1')"></button>
+    </div>
+
+    <div class="tooltip">
+      <span class="tooltiptext">#00baff</span>
+        <button id=button2 onclick="copyToClipboard('#p2')"></button>
+    </div>
+
+
+  </center>
+
+</body>
+
+</html>
