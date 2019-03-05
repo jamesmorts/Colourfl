@@ -10,14 +10,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
-  position: relative;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button1:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button1:active {
+  transform: translateY(1px);
 }
 
 #button2 {
@@ -27,13 +32,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button2:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button2:active {
+  transform: translateY(1px);
 }
 
 #button3 {
@@ -43,13 +54,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button3:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button3:active {
+  transform: translateY(1px);
 }
 
 #button4 {
@@ -59,13 +76,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button4:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button4:active {
+  transform: translateY(1px);
 }
 
 #button5 {
@@ -75,13 +98,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button5:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button5:active {
+  transform: translateY(1px);
 }
 
 #button6 {
@@ -91,13 +120,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button6:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button6:active {
+  transform: translateY(1px);
 }
 
 #button7 {
@@ -107,13 +142,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button7:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button7:active {
+  transform: translateY(1px);
 }
 
 #button8 {
@@ -123,13 +164,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button8:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button8:active {
+  transform: translateY(1px);
 }
 
 #button9 {
@@ -139,13 +186,20 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
+
 
 #button9:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button9:active {
+  transform: translateY(1px);
 }
 
 #button10 {
@@ -155,13 +209,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button10:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button10:active {
+  transform: translateY(1px);
 }
 
 #button11 {
@@ -171,13 +231,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button11:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button11:active {
+  transform: translateY(1px);
 }
 
 #button12 {
@@ -187,13 +253,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button12:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button12:active {
+  transform: translateY(1px);
 }
 
 #button13 {
@@ -203,13 +275,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button13:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button13:active {
+  transform: translateY(1px);
 }
 
 #button14 {
@@ -219,13 +297,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button14:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button14:active {
+  transform: translateY(1px);
 }
 
 #button15 {
@@ -235,13 +319,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button15:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button15:active {
+  transform: translateY(1px);
 }
 
 #button16 {
@@ -251,13 +341,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button16:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button16:active {
+  transform: translateY(1px);
 }
 
 #button17 {
@@ -267,13 +363,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button17:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button17:active {
+  transform: translateY(1px);
 }
 
 #button18 {
@@ -283,13 +385,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button18:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button18:active {
+  transform: translateY(1px);
 }
 
 #button19 {
@@ -299,13 +407,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button19:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button19:active {
+  transform: translateY(1px);
 }
 
 #button20 {
@@ -315,13 +429,19 @@ body {background-color: #d8d8d8;}
   border: 1px;
   border-radius: 8px;
   padding: 1rem 2rem;
+  cursor: pointer;
   margin: 5px;
   transition: all .2s ease-in-out;
+  outline: none;
 }
 
 #button20:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+#button20:active {
+  transform: translateY(1px);
 }
 
 
@@ -497,8 +617,8 @@ body {background-color: #d8d8d8;}
   margin-bottom: 5px;
 }
 
-.tooltip .tooltiptext::after {
-  content: " ";
+.tooltip .tooltiptext:after {
+  content: "";
   position: absolute;
   top: 100%; /* At the bottom of the tooltip */
   left: 50%;
