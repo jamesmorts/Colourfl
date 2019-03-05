@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa);
-@import url(https://fonts.googleapis.com/css?family=Comfortaa-Bold);
 
 body {background-color: #d8d8d8;}
 
@@ -667,4 +666,9 @@ body {background-color: #d8d8d8;}
   border-width: 5px;
   border-style: solid;
   border-color: transparent #273746 transparent transparent;
+}
+
+
+#copyConfirm {
+  font-family: comfortaa;
 }

@@ -3,9 +3,18 @@
 <head>
   <link rel="stylesheet" href="style.css">
   <script src=script.js></script>
-</head>
-<body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <script>
+  function showDiv() {
+     document.getElementById('copyConfirm').style.display = "block";
+   }
+  </script>
+
+</head>
+
+<body>
+
 
   <div class="githubTooltip">
       <span class="githubTooltipText">jamesmorts</span>
@@ -17,6 +26,8 @@
   <p class="subHeading">Simply click a square to copy the hexcode for that colour to your clipboard.</p>
 
   <center>
+
+
 
     <p id="p1">#A93226</p>
     <p id="p2">#CB4335</p>
@@ -39,9 +50,16 @@
     <p id="p19">#2E4053</p>
     <p id="p20">#273746</p>
 
-  </br>
-  </br>
-  </br>
+    </br>
+    </br>
+    </br>
+
+    <div id="copyConfirm" style="display:none;">Copied to clipboard!</div>
+    <type="button" value="Show Div" onclick="showDiv()" />
+
+    </br>
+    </br>
+    </br>
 
     <div class="tooltip">
       <span class="tooltiptext">#A93226</span>
@@ -142,6 +160,8 @@
       <span class="tooltiptext">#273746</span>
         <button id=button20 onclick="copyToClipboard('#p20')"></button>
     </div>
+
+
 
   </center>
 
