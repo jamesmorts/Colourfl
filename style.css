@@ -17,6 +17,7 @@ body {background-color: #d8d8d8;}
 
 #button1:hover {
   transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
 }
 
 #button2 {
@@ -31,7 +32,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button2:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button3 {
   background-color: #884EA0;
@@ -45,7 +48,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button3:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button4 {
   background-color: #7D3C98;
@@ -59,7 +64,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button4:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button5 {
   background-color: #2471A3;
@@ -73,7 +80,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button5:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button6 {
   background-color: #2E86C1;
@@ -87,7 +96,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button6:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button7 {
   background-color: #17A589;
@@ -101,7 +112,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button7:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button8 {
   background-color: #138D75;
@@ -115,7 +128,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button8:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button9 {
   background-color: #229954;
@@ -129,7 +144,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button9:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button10 {
   background-color: #28B463;
@@ -143,7 +160,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button10:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button11 {
   background-color: #D4AC0D;
@@ -157,7 +176,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button11:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button12 {
   background-color: #D68910;
@@ -171,7 +192,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button12:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button13 {
   background-color: #CA6F1E;
@@ -185,7 +208,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button13:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button14 {
   background-color: #BA4A00;
@@ -199,7 +224,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button14:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button15 {
   background-color: #D0D3D4;
@@ -213,7 +240,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button15:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button16 {
   background-color: #A6ACAF;
@@ -227,7 +256,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button16:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button17 {
   background-color: #839192;
@@ -241,7 +272,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button17:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button18 {
   background-color: #707B7C;
@@ -255,7 +288,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button18:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button19 {
   background-color: #2E4053;
@@ -269,7 +304,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button19:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 #button20 {
   background-color: #273746;
@@ -283,7 +320,9 @@ body {background-color: #d8d8d8;}
 }
 
 #button20:hover {
-  transform: scale(1.1); }
+  transform: scale(1.1);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
 
 
 .logo {
