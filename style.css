@@ -1,10 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa-Bold);
 
 body {background-color: #d8d8d8;}
 
 #button1 {
-  background-color: #2f3136;
-  font-family: Oswald;
+  background-color: #A93226;
+  font-family: Comfortaa;
   font-size: 16px;
   border: 1px;
   border-radius: 8px;
@@ -15,8 +16,8 @@ body {background-color: #d8d8d8;}
 
 
 #button2 {
-  background-color: #00baff;
-  font-family: Oswald;
+  background-color: #CB4335;
+  font-family: Comfortaa;
   font-size: 16px;
   border: 1px;
   border-radius: 8px;
@@ -24,13 +25,194 @@ body {background-color: #d8d8d8;}
   margin: 5px;
 }
 
+#button3 {
+  background-color: #884EA0;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button4 {
+  background-color: #7D3C98;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button5 {
+  background-color: #2471A3;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button6 {
+  background-color: #2E86C1;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button7 {
+  background-color: #17A589;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button8 {
+  background-color: #138D75;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button9 {
+  background-color: #229954;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button10 {
+  background-color: #28B463;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button11 {
+  background-color: #D4AC0D;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button12 {
+  background-color: #D68910;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button13 {
+  background-color: #CA6F1E;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button14 {
+  background-color: #BA4A00;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button15 {
+  background-color: #D0D3D4;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button16 {
+  background-color: #A6ACAF;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button17 {
+  background-color: #839192;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button18 {
+  background-color: #707B7C;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button19 {
+  background-color: #2E4053;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+#button20 {
+  background-color: #273746;
+  font-family: Comfortaa;
+  font-size: 16px;
+  border: 1px;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  margin: 5px;
+}
+
+
 .logo {
 	text-transform: uppercase;
   text-align: center;
 	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	font-family: Oswald;
+	font-family: Comfortaa;
   font-size: 7.5vw;
   position: inherit;
 }
@@ -39,16 +221,131 @@ body {background-color: #d8d8d8;}
   color: #2f3136;
   font-size: 25px;
   text-align: center;
-  font-family: Oswald;
+  font-family: Comfortaa;
 }
 
 #p1 {
   color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
 }
 
 #p2 {
   color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
 }
+
+#p3 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p4 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p5 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p6 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p7 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p8 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p9 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p10 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p11 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p12 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p13 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p14 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p15 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+#p16 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p17 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p18 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p19 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+#p20 {
+  color: #d8d8d8;
+  position: fixed;
+  margin-right: -9999px;
+}
+
+
+
+
 
 /* Tooltip container */
 .tooltip {
@@ -72,7 +369,7 @@ body {background-color: #d8d8d8;}
   position: absolute;
   z-index: 1;
   opacity: 0;
-  transition: opacity 1.15s;
+  transition: opacity 0.75s;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
