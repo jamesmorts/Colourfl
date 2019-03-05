@@ -6,13 +6,22 @@
 </head>
 <body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script src="clipboard.min.js"></script>
+
+
+
+  <div class="githubTooltip">
+    <div class="hvr-forward">
+      <span class="githubTooltipText">jamesmorts</span>
+        <a href="https://www.github.com/jamesmorts">
+        <img src="github.png" width=35px, height=35px></a>
+     </div>
+  </div>
+
 
   <p class="logo">Colourfl</p>
   <p class="subHeading">Simply click a square to copy the hexcode for that colour to your clipboard.</p>
 
   <center>
-
 
     <p id="p1">#A93226</p>
     <p id="p2">#CB4335</p>
@@ -35,10 +44,10 @@
     <p id="p19">#2E4053</p>
     <p id="p20">#273746</p>
 
+  </br>
+  </br>
+  </br>
 
-
-
-    <br/>
     <div class="tooltip">
       <span class="tooltiptext">#A93226</span>
         <button id=button1 onclick="copyToClipboard('#p1')"></button>

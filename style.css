@@ -12,8 +12,12 @@ body {background-color: #d8d8d8;}
   padding: 1rem 2rem;
   position: relative;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
 
+#button1:hover {
+  transform: scale(1.1);
+}
 
 #button2 {
   background-color: #CB4335;
@@ -23,7 +27,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button2:hover {
+  transform: scale(1.1); }
 
 #button3 {
   background-color: #884EA0;
@@ -33,7 +41,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button3:hover {
+  transform: scale(1.1); }
 
 #button4 {
   background-color: #7D3C98;
@@ -43,7 +55,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button4:hover {
+  transform: scale(1.1); }
 
 #button5 {
   background-color: #2471A3;
@@ -53,7 +69,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button5:hover {
+  transform: scale(1.1); }
 
 #button6 {
   background-color: #2E86C1;
@@ -63,7 +83,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button6:hover {
+  transform: scale(1.1); }
 
 #button7 {
   background-color: #17A589;
@@ -73,7 +97,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button7:hover {
+  transform: scale(1.1); }
 
 #button8 {
   background-color: #138D75;
@@ -83,7 +111,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button8:hover {
+  transform: scale(1.1); }
 
 #button9 {
   background-color: #229954;
@@ -93,7 +125,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button9:hover {
+  transform: scale(1.1); }
 
 #button10 {
   background-color: #28B463;
@@ -103,7 +139,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button10:hover {
+  transform: scale(1.1); }
 
 #button11 {
   background-color: #D4AC0D;
@@ -113,7 +153,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button11:hover {
+  transform: scale(1.1); }
 
 #button12 {
   background-color: #D68910;
@@ -123,7 +167,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button12:hover {
+  transform: scale(1.1); }
 
 #button13 {
   background-color: #CA6F1E;
@@ -133,7 +181,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button13:hover {
+  transform: scale(1.1); }
 
 #button14 {
   background-color: #BA4A00;
@@ -143,7 +195,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button14:hover {
+  transform: scale(1.1); }
 
 #button15 {
   background-color: #D0D3D4;
@@ -153,7 +209,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button15:hover {
+  transform: scale(1.1); }
 
 #button16 {
   background-color: #A6ACAF;
@@ -163,7 +223,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button16:hover {
+  transform: scale(1.1); }
 
 #button17 {
   background-color: #839192;
@@ -173,7 +237,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button17:hover {
+  transform: scale(1.1); }
 
 #button18 {
   background-color: #707B7C;
@@ -183,7 +251,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button18:hover {
+  transform: scale(1.1); }
 
 #button19 {
   background-color: #2E4053;
@@ -193,7 +265,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button19:hover {
+  transform: scale(1.1); }
 
 #button20 {
   background-color: #273746;
@@ -203,7 +279,11 @@ body {background-color: #d8d8d8;}
   border-radius: 8px;
   padding: 1rem 2rem;
   margin: 5px;
+  transition: all .2s ease-in-out;
 }
+
+#button20:hover {
+  transform: scale(1.1); }
 
 
 .logo {
@@ -344,13 +424,12 @@ body {background-color: #d8d8d8;}
 }
 
 
-
-
-
 /* Tooltip container */
 .tooltip {
   position: relative;
   display: inline-block;
+  font-family: Comfortaa;
+  font-style: bold;
 }
 
 /* Tooltip text */
@@ -358,7 +437,7 @@ body {background-color: #d8d8d8;}
   visibility: hidden;
   width: 120px;
   margin-left: -60px;
-  background-color: #16181b;
+  background-color: #273746;
   color: #fff;
   text-align: center;
   padding: 5px 0;
@@ -376,6 +455,7 @@ body {background-color: #d8d8d8;}
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+  margin-bottom: 5px;
 }
 
 .tooltip .tooltiptext::after {
@@ -386,5 +466,46 @@ body {background-color: #d8d8d8;}
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: black transparent transparent transparent;
+  border-color: #273746 transparent transparent transparent;
+}
+
+/* Tooltip container */
+.githubTooltip {
+  position: fixed;
+  display: flex;
+  margin-top: -6.5%;
+  margin-left: .5%;
+}
+
+/* Tooltip text */
+.githubTooltip .githubTooltipText {
+  visibility: hidden;
+  width: 120px;
+	background: #273746;
+  color: #fff;
+  text-align: center;
+  font-family: comfortaa;
+  padding: 7.5px;
+  border-radius: 6px;
+  position: absolute;
+  margin-left: 50px;
+  opacity: 0;
+  transition: opacity 0.55s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.githubTooltip:hover .githubTooltipText {
+  visibility: visible;
+  opacity: 1;
+}
+
+.githubTooltip .githubTooltipText:after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  right: 100%; /* To the left of the tooltip */
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent #273746 transparent transparent;
 }
