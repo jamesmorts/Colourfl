@@ -3,7 +3,6 @@
 body {background-color: #d8d8d8;}
 
 #button1 {
-  background-color: #A93226;
   font-family: Comfortaa;
   font-size: 16px;
   border: 1px;
@@ -11,7 +10,7 @@ body {background-color: #d8d8d8;}
   padding: 1rem 2rem;
   cursor: pointer;
   margin: 5px;
-  transition: all .2s ease-in-out;
+  transition: all .1s ease-in-out;
   outline: none;
 }
 
@@ -25,7 +24,6 @@ body {background-color: #d8d8d8;}
 }
 
 #button2 {
-  background-color: #CB4335;
   font-family: Comfortaa;
   font-size: 16px;
   border: 1px;
@@ -55,7 +53,7 @@ body {background-color: #d8d8d8;}
   padding: 1rem 2rem;
   cursor: pointer;
   margin: 5px;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
   outline: none;
 }
 
@@ -631,8 +629,6 @@ body {background-color: #d8d8d8;}
 .githubTooltip {
   position: fixed;
   display: flex;
-  margin-top: -6.5%;
-  margin-left: .5%;
 }
 
 /* Tooltip text */
@@ -666,9 +662,4 @@ body {background-color: #d8d8d8;}
   border-width: 5px;
   border-style: solid;
   border-color: transparent #273746 transparent transparent;
-}
-
-
-#copyConfirm {
-  font-family: comfortaa;
 }

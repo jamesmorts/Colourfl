@@ -1,170 +1,139 @@
-<!DOCTYPE html>
-<html>
+<html class="gr__jamesmorts_github_io">
+
+<title>Colourfl | A simple colour selection tool</title>
+
 <head>
   <link rel="stylesheet" href="style.css">
-  <script src=script.js></script>
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-  <script>
-  function showDiv() {
-     document.getElementById('copyConfirm').style.display = "block";
-   }
-  </script>
-
+  <script async src="script.js"></script>
 </head>
 
-<body>
-
+  <body>
 
   <div class="githubTooltip">
       <span class="githubTooltipText">jamesmorts</span>
         <a href="https://www.github.com/jamesmorts">
-        <img src="github.png" width=35px, height=35px></a>
+        <img src="github.png" width="35px," height="35px"></a>
   </div>
+
+  <br>
 
   <p class="logo">Colourfl</p>
   <p class="subHeading">Simply click a square to copy the hexcode for that colour to your clipboard.</p>
 
   <center>
 
-
-
-    <p id="p1">#A93226</p>
-    <p id="p2">#CB4335</p>
-    <p id="p3">#884EA0</p>
-    <p id="p4">#7D3C98</p>
-    <p id="p5">#2471A3</p>
-    <p id="p6">#2E86C1</p>
-    <p id="p7">#17A589</p>
-    <p id="p8">#138D75</p>
-    <p id="p9">#229954</p>
-    <p id="p10">#28B463</p>
-    <p id="p11">#D4AC0D</p>
-    <p id="p12">#D68910</p>
-    <p id="p13">#CA6F1E</p>
-    <p id="p14">#BA4A00</p>
-    <p id="p15">#D0D3D4</p>
-    <p id="p16">#A6ACAF</p>
-    <p id="p17">#839192</p>
-    <p id="p18">#707B7C</p>
-    <p id="p19">#2E4053</p>
-    <p id="p20">#273746</p>
-
-    </br>
-    </br>
-    </br>
-
-    <div id="copyConfirm" style="display:none;">Copied to clipboard!</div>
-    <type="button" value="Show Div" onclick="showDiv()" />
-
-    </br>
-    </br>
-    </br>
+    <br>
+    <br>
+    <br>
 
     <div class="tooltip">
       <span class="tooltiptext">#A93226</span>
-        <button id=button1 onclick="copyToClipboard('#p1')"></button>
+        <button id="button1" class="colourBut" value="#A93226"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#CB4335</span>
-        <button id=button2 onclick="copyToClipboard('#p2')"></button>
+        <button id="button2" class="colourBut" value="#CB4335"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#884EA0</span>
-        <button id=button3 onclick="copyToClipboard('#p3')"></button>
+        <button id="button3" class="colourBut" value="#884EA0"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#7D3C98</span>
-        <button id=button4 onclick="copyToClipboard('#p4')"></button>
+        <button id="button4" class="colourBut" value="#7D3C98"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#2471A3</span>
-        <button id=button5 onclick="copyToClipboard('#p5')"></button>
+        <button id="button5" class="colourBut" value="#2471A3"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#2E86C1</span>
-        <button id=button6 onclick="copyToClipboard('#p6')"></button>
+        <button id="button6" class="colourBut" value="#2E86C1"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#17A589</span>
-        <button id=button7 onclick="copyToClipboard('#p7')"></button>
+        <button id="button7" class="colourBut" value="#17A589"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#138D75</span>
-        <button id=button8 onclick="copyToClipboard('#p8')"></button>
+        <button id="button8" class="colourBut" value="#138D75"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#229954</span>
-        <button id=button9 onclick="copyToClipboard('#p9')"></button>
+        <button id="button9" class="colourBut" value="#229954"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#28B463</span>
-        <button id=button10 onclick="copyToClipboard('#p10')"></button>
+        <button id="button10" class="colourBut" value="#28B463"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#D4AC0D</span>
-        <button id=button11 onclick="copyToClipboard('#p11')"></button>
+        <button id="button11" class="colourBut" value="#D4AC0D"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#D68910</span>
-        <button id=button12 onclick="copyToClipboard('#p12')"></button>
+        <button id="button12" class="colourBut" value="#D68910"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#CA6F1E</span>
-        <button id=button13 onclick="copyToClipboard('#p13')"></button>
+        <button id="button13" class="colourBut" value="#CA6F1E"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#BA4A00</span>
-        <button id=button14 onclick="copyToClipboard('#p14')"></button>
+        <button id="button14" class="colourBut" value="#BA4A00"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#D0D3D4</span>
-        <button id=button15 onclick="copyToClipboard('#p15')"></button>
+        <button id="button15" class="colourBut" value="#D0D3D4"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#A6ACAF</span>
-        <button id=button16 onclick="copyToClipboard('#p16')"></button>
+        <button id="button16" class="colourBut" value="#A6ACAF"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#839192</span>
-        <button id=button17 onclick="copyToClipboard('#p17')"></button>
+        <button id="button17" class="colourBut" value="#839192"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#707B7C</span>
-        <button id=button18 onclick="copyToClipboard('#p18')"></button>
+        <button id="button18" class="colourBut" value="#707B7C"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#2E4053</span>
-        <button id=button19 onclick="copyToClipboard('#p19')"></button>
+        <button id="button19" class="colourBut" value="#2E4053"></button>
     </div>
 
     <div class="tooltip">
       <span class="tooltiptext">#273746</span>
-        <button id=button20 onclick="copyToClipboard('#p20')"></button>
+        <button id="button20" class="colourBut" value="#273746"></button>
     </div>
 
 
 
-  </center>
+  </type="button"></center>
+
+
+
 
 </body>
-
 </html>
