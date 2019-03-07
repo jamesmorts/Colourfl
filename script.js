@@ -1,5 +1,12 @@
+
+
 function buttonClicked($element) {
+  //setTimeout(function(){
   copyStringToClipboard($element.target.value);
+      //var originalState = $($element.target.value).clone();
+      //$(".tooltiptext").html(originalState.prevObject.selector);
+      //console.log(originalState.prevObject.selector);
+//  }, 1500);
 }
 
 var classname = document.getElementsByClassName("colourBut");
@@ -22,3 +29,7 @@ function copyStringToClipboard (str) {
    document.execCommand('copy');
    document.body.removeChild(el);
 }
+
+$(".tooltip").click(function(){
+   $(this).find('span').text("Copied to clipboard!");
+});
